@@ -13,7 +13,8 @@ def using_reverse(array)
 end
 
 def using_first(array)
-
+  using_first_key = ["wow", "I", "am", "really", "learning", "arrays!"]
+  using_first_key.first
 end
 
 def using_last(array)
