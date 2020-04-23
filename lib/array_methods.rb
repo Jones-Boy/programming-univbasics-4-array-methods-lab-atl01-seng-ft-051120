@@ -23,5 +23,6 @@ def using_last(array)
 end
 
 def using_size(array)
-  using_size_key = 
+  using_size_key = ["wow", "I", "am", "really", "learning", "arrays!"]
+  using_size_key.size
 end
